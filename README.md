@@ -4,7 +4,7 @@ My name is Khuc Anh. I am a junior at FPT University, majoring in Artificial Int
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/h%E1%BB%AFu-anh-039810278/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/khuchuuanh)
 
-![Anh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khuchuuanh&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Anh's github stats](https://github-readme-stats.vercel.app/api?username=khuchuuanh&show_icons=true&theme=radical)
 
 <a href="https://github.com/khuchuuanh/IELTS-Essay-Scoring">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
