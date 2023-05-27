@@ -6,22 +6,11 @@ My name is Khuc Anh. I am a junior at FPT University, majoring in Artificial Int
 
 ![Anh's github stats](https://github-readme-stats.vercel.app/api?username=khuchuuanh&show_icons=true&theme=radical)
 
-<a href="https://github.com/khuchuuanh/IELTS-Essay-Scoring">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khuchuuanh&repo=IELTS-Essay-Scoring&theme=radical"/>
-</a>   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuchuuanh&repo=IELTS-Essay-Scoring&theme=merko)](https://github.com/khuchuuanh/IELTS-Essay-Scoring)
 
-<a href="https://github.com/khuchuuanh/Deep_learning">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khuchuuanh&repo=Deep_learning&theme=merko">
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuchuuanh&repo=Deep_learning&theme=radical)](https://github.com/khuchuuanh/Deep_learning)
 
-<a href="https://github.com/khuchuuanh/Machine-learning">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khuchuuanh&repo=Machine-learning&theme=dracula">
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuchuuanh&repo=Machine-learning&theme=dracula)](https://github.com/khuchuuanh/Machine-learning)
 
-<a href="https://github.com/khuchuuanh/Translation">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=khuchuuanh&repo=Computer-vision&theme=gruvbox">
-</a>    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuchuuanh&repo=Computer-vision&theme=gruvbox)](https://github.com/khuchuuanh/Computer-vision)
+
